@@ -1,3 +1,3 @@
 # shoppingApp-AngularJS
 
-# creating application using AngularJS, ExpressJS, Mongoose Model
+# Creating Application using AngularJS, ExpressJS, Mongoose Model
