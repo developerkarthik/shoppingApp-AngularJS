@@ -1,0 +1,28 @@
+{
+  "name": "shoppingapp-angularjs",
+  "version": "1.0.0",
+  "description": "Create Shopping App Using AngularJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerkarthik/shoppingApp-AngularJS.git"
+  },
+  "keywords": [
+    "shopping",
+    "app",
+    "shoppingApp",
+    "ecommerce"
+  ],
+  "author": "karthik krishnamoorthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developerkarthik/shoppingApp-AngularJS/issues"
+  },
+  "homepage": "https://github.com/developerkarthik/shoppingApp-AngularJS#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
